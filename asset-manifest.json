@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ws101-martinez--navbar/static/css/main.ad71ca21.css",
+    "main.js": "/ws101-martinez--navbar/static/js/main.fb6e729e.js",
+    "static/media/About1.mp4": "/ws101-martinez--navbar/static/media/About1.a860ac374c8d5c9d7bf2.mp4",
+    "static/media/HOMEVIDEO.mp4": "/ws101-martinez--navbar/static/media/HOMEVIDEO.b852b484fe981cb3f75e.mp4",
+    "static/media/Memories.mp3": "/ws101-martinez--navbar/static/media/Memories.c414fc35e18e4e8c8a01.mp3",
+    "static/media/Bink.mp3": "/ws101-martinez--navbar/static/media/Bink.88b9595e240f7a1c8041.mp3",
+    "static/media/titlefront.jpg": "/ws101-martinez--navbar/static/media/titlefront.3f3eeae5932166c9fe58.jpg",
+    "static/media/strawhat.jpg": "/ws101-martinez--navbar/static/media/strawhat.d239f9be65883941f774.jpg",
+    "index.html": "/ws101-martinez--navbar/index.html",
+    "main.ad71ca21.css.map": "/ws101-martinez--navbar/static/css/main.ad71ca21.css.map",
+    "main.fb6e729e.js.map": "/ws101-martinez--navbar/static/js/main.fb6e729e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad71ca21.css",
+    "static/js/main.fb6e729e.js"
+  ]
+}
